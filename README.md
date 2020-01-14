@@ -1,6 +1,7 @@
 # StringCalculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+This is a simple string calculator I have built using angular. For the most part the implemntation is pretty simple, still need to write tests of course to make sure all cases work. 
 
 ## Development server
 
