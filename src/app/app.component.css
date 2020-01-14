@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+h2 {
+  text-align: center;
+  color: lightskyblue
+}
+
+.output-text {
+  color: lightskyblue;
+  text-align: center;
+  padding: 24px;
+}
